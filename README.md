@@ -1,3 +1,4 @@
 # GALab8
 GitHub Actions - przegląd podstawowych rozwiązań
-Readme fix v2
+Readme fix v3
+
